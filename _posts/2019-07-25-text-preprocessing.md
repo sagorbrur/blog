@@ -1,4 +1,7 @@
-# Text Preprocessing
+---
+title: Text Preprocessing
+---
+
 It's important to preprocess text to make it machine understandable. 
 
 Like image after obtaining text we need to normalize it. 
@@ -7,12 +10,12 @@ Like image after obtaining text we need to normalize it.
 
 Text Normalization includes:
 
-* **Converting all letters to lower or upper case**
-* **Converting number into words or removing numbers**
-* **Removing punctuation mark, accent mark**
-* **Removing whitespaces**
-* **Expanding  abbreviations**
-* **Removing stop words, sparse terms, and particular words**
+* Converting all letters to lower or upper case
+* Converting number into words or removing numbers
+* Removing punctuation mark, accent mark
+* Removing whitespaces
+* Expanding  abbreviations
+* Removing stop words, sparse terms, and particular words
 
 ### converting to lowercase
 
