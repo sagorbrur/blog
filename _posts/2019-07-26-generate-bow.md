@@ -1,7 +1,7 @@
-
 ---
 title: Generate Bag of Word(Step by Step)
 ---
+
 
 We know **Neural Network** or **Machine Learning Algorithm** need features to train. 
 **Bag of Words(BOW)** is a method to extract features from text. 
