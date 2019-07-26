@@ -1,6 +1,6 @@
 
 ---
-title: Generate Bag of Words(Step by Step)
+title: Generate Bag of Word(Step by Step)
 ---
 
 We know **Neural Network** or **Machine Learning Algorithm** need features to train. 
