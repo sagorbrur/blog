@@ -2,6 +2,9 @@
 title: Extracting Compressed File in Python
 ---
 
+In our daily life data compressing is a must need work for handling large data file. And also we need to decompress or extract data from compress data. Common compress file extension are `zip`, `tar`, `tar.gz`, `bz2`, `7z` and so on. While working with python we need to know how to extract those compressed data in python. 
+
+Here is some way in python to extract data from common compressed extension
 
 ## `.zip` File Extracting
 
