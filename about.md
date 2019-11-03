@@ -12,6 +12,8 @@ title: About
 Hello! This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/), an enthusiastic artificial initelligence learner.
 I am currently working as a Researcher and Developer at [Semantics lab](http://semanticslab.net/)
 
+I studied computer science and engineering at Begum Rokeya University, Rangpur.
+
 ## My Research Field
 * Natural Language Processing
 * Deep Learning
